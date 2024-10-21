@@ -1,4 +1,13 @@
-# BSB-LPB-PPS-LAN
+# BSB-LAN-MINI
+
+My goal with this fork is to remove stuff I don't need. Everything related to SD cards, Ethernet, non ESP32. I also onlyc are about baxi Luna Platinum gas boiler, so i will add here my boiler's specific settings. Use this at your own risk. :) Better just use original :)
+
+
+
+
+
+
+Original:
 
 Die deutsche Fassung dieser Datei gibt es [hier](README_de.md).
 
